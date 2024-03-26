@@ -1,2 +1,6 @@
 # FDA-compounds-SILCS-Hotspots-SI
 SI data repository for the SILCS-Hotspots ranking paper
+Part of the Supplementary Information for the manuscript:
+"Physics- and machine-learning-based method to accurately predict druggable binding sites using SILCS-Hotspots"
+Erik B. Nordquist, Mingtian Zhao, Anmol Kumar, Alexander D. MacKerell, Jr.
+Journal of Computer-Aided Molecular Design (in prep)
